@@ -1,0 +1,15 @@
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\bin\Debug\net7.0\Final_task.exe
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\bin\Debug\net7.0\Final_task.deps.json
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\bin\Debug\net7.0\Final_task.runtimeconfig.json
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\bin\Debug\net7.0\Final_task.dll
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\bin\Debug\net7.0\Final_task.pdb
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.csproj.AssemblyReference.cache
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.AssemblyInfoInputs.cache
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.AssemblyInfo.cs
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.csproj.CoreCompileInputs.cache
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.dll
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\refint\Final_task.dll
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.pdb
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\Final_task.genruntimeconfig.cache
+C:\Users\okuso\Desktop\Проверочная работа\Task\Final_task\obj\Debug\net7.0\ref\Final_task.dll
